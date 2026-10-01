@@ -1,4 +1,3 @@
-Team members: A-USERNAME and B-USERNAME
-Favorite programming language: TBD
+Team members: arshiasharma08 and EthansCoding
+Favorite programming language: Python, Java
 Team motto: One Team, One Dream
-
